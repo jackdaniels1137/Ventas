@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css?family=Nosifer&display=swap');
+
+.lineaPloma{
+    border-bottom: 3px solid darkgray;
+}
+
+.dimensionImagen{
+    height: 30px;
+    width: 30px; 
+}
+
+
+.dimensionImagenGrande{
+    height: 400px;
+    width: 400px; 
+    padding-left: 50px;
+}
+
+.dimensionImagenCelular{
+    height: 380px;
+    width: 380px; 
+    padding-left:100px;
+    padding-top: 20px;
+}
+
+.margen20{
+    margin-left: 20px;
+}
+
+.fondoRojo{
+    border: 1px solid crimson;
+   width: 100%;
+   ;
+}
+
+.footerRojo{
+    background-color: crimson;
+}
+
+.fondo1{
+    background-color: paleturquoise;
+    width: 500px;
+    height: 600px;
+}
+
+.fondo2{
+    background-color: whitesmoke;
+    width: 500px;
+    height: 600px;
+}
+
+.font{
+    background-color: whitesmoke;
+}
+
+
+
+.oferta{
+    text-align: center;
+    font-family: 'Nosifer', cursive;
+}
+
+.oferta2{
+    text-align: center justify;
+    font-size: 12px;
+}
+
+.oferta3{
+    text-align: justify;
+    font-size: 15px;
+    line-height: 2.1;
+   
+}
+
+.footer{
+    color: white;
+    font-size: 10px;
+    text-align: center;
+}
+
+.imagenTigre{
+    width: 180px;
+    height: 180px;
+    margin-left: 140px;
+}
+
+.oferta4{
+    text-align: center;
+    font-family: 'Nosifer', cursive;
+    font-size: 18.6px;
+}
+
+.dimensionNegativa{
+    margin-bottom: -10px;
+}
+
+.precio{
+    text-align: center;
+    font-family: 'Nosifer', cursive;
+    padding-top: 20px;
+}
+
+.cajaPrecio{
+    border-radius: 20px 20px 20px 20px;
+    -moz-border-radius: 15px 15px 15px 15px;
+    -moz-border-radius: 15px 15px 15px 15px;
+    color: white;
+    background-color: red;
+    height: 40px;
+    width: 150px;
+    margin-left: 170px;
+}
+
+
+.cajaRegistrar{
+    border-radius: 20px 20px 20px 20px;
+    -moz-border-radius: 15px 15px 15px 15px;
+    -moz-border-radius: 15px 15px 15px 15px;
+    color: white;
+    background-color: green;
+    height: 40px;
+    width: 150px;
+    margin-left: 170px;
+}
+
+
+.td1{
+    background-color: paleturquoise;
+}
+
+.td2{
+    background-color: whitesmoke;
+}
+
+table{
+    background-color: paleturquoise;
+}
+
